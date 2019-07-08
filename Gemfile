@@ -1,6 +1,7 @@
 source :rubygems
 
 gem "rake"
+gem "google-api-client"
 
 group :development, :test do
   gem "byebug"
